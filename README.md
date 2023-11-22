@@ -18,7 +18,7 @@ This project is an AI-based chatbot implemented in Python. The chatbot utilizes 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/ai-based-chatbot.git
+    git clone https://github.com/ai-based-chatbot.git
     cd ai-based-chatbot
     ```
 
